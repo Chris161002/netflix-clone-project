@@ -10,9 +10,6 @@
   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/login.png)
   ## Signup Page 
   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/signup.png)
-  ## Our Team 
-   ![](https://github.com/askhan963/netflix-clone-mern/blob/main/team.png)
-   ## Main Page 
    ![](https://github.com/askhan963/netflix-clone-mern/blob/main/mainpage.png)
    ##  Main 
    ![](https://github.com/askhan963/netflix-clone-mern/blob/main/main.png)
